@@ -35,4 +35,4 @@ const recursoSchema = new db.Schema({
 
 });
 
-module.exports = mongoose.model('Recurso', recursoSchema);
+module.exports = db.model('Recurso', recursoSchema);
