@@ -1,7 +1,7 @@
 'use strict'
 
-const mongoose = require('mongoose');
-const Usuario = mongoose.model('Usuario');
+const db = require('db');
+const Usuario = db.model('Usuario');
 const sendEmail = require('../csv/sendEmail')
 
 exports.get = (req, res, next) => {
