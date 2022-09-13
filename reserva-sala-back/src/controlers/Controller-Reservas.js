@@ -1,7 +1,7 @@
 'use strict'
 
-const mongoose = require('mongoose');
-const Reserva = mongoose.model('Reserva');
+const db = require('mongoose');
+const Reserva = db.model('Reserva');
 
 exports.get = (req, res, next) => {
     Reserva.find({})
