@@ -1,7 +1,7 @@
 # Sistema de Gerenciamento e Reservas de Salas e Recursos :memo:
-O seguinte sistema está sendo desenvolvido por um grupo universitários no curso de Sistemas de Informação na Faculdade Santa Terezinha-cest, com o objetivo de atender os serviços de gerenciamento e reservas de salas e recursos, o sistema possibilita um usuário administrador buscar/inserir/atualizar/excluir salas e recursos na plataforma que podendo ser ainda mais automatizado por meio de tabelas .CSV contendo as devidas informações de cada registro.
+O seguinte sistema está sendo desenvolvido por um grupo universitários no curso de Sistemas de Informação na Faculdade Santa Terezinha-cest, com o objetivo de atender os serviços de gerenciamento e reservas de salas e recursos, o sistema possibilita um professor ou um usuário administrador buscar/inserir/atualizar/excluir salas e recursos na plataforma que podendo ser ainda mais automatizado por meio de tabelas .CSV contendo as devidas informações de cada registro.
 
-## Materiais e Métodos
+## Materiais
 Para o desenvolvimento estão sendo utilizados as linguagens de programação abaixo, a escolha delas foi determinada principalmente pelo nível de dificuldade e rapidez no desenvolvimento. 
 
 #### NODE JS
@@ -22,4 +22,4 @@ $ cd reserva-salas-back
 $ npm install
 $ npm start
 ```
-#### Banco de Dados
+
