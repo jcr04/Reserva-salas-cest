@@ -1,5 +1,5 @@
 # Sistema de Gerenciamento e Reservas de Salas :memo:
-O sistema foi desenvolvido por um aluno do curso de Sistemas de Informação na Faculdade Santa Terezinha-cest, com o objetivo de atender os serviços de gerenciamento e reservas de salas e recursos, o sistema possibilita um professor ou um usuário administrador buscar/inserir/atualizar/excluir salas e recursos na plataforma que podendo ser ainda mais automatizado por meio de tabelas .CSV contendo as devidas informações de cada registro.
+O sistema foi desenvolvido para um projeto no curso de Sistemas de Informação na Faculdade Santa Terezinha-cest, com o objetivo de atender os serviços de gerenciamento e reservas de salas, o sistema possibilita um professor ou um usuário administrador buscar/inserir/atualizar/excluir salas e recursos na plataforma que podendo ser ainda mais automatizado por meio de tabelas .CSV contendo as devidas informações de cada registro.
 
 ## Métodos
 Para o desenvolvimento estão sendo utilizados as linguagens de programação abaixo.
